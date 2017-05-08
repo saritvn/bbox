@@ -9,6 +9,9 @@
                 "type": "git",
                 "reference": "master"
             },
+            "require": {
+                  "php": ">=5.6"
+              },
             "autoload": {
                 "psr-0" : {
                     "Bbox" : "src"
