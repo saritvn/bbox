@@ -1,5 +1,14 @@
 "repositories": [
     {
+        "name": "flowjs/flow-php-server",
+        "description": "Upload file to BBOX with KEY",
+        "license": "BSTAR",
+        "authors": [
+        {
+          "name": "Trung Ha",
+          "email": "onclick.trungha@gmail.com"
+        }
+        ],
         "type": "package",
         "package": {
             "name": "saritvn/bbox",
