@@ -3,6 +3,7 @@
         "name": "flowjs/flow-php-server",
         "description": "Upload file to BBOX with KEY",
         "license": "BSTAR",
+        "version": "1.0",
         "authors": [
         {
           "name": "Trung Ha",
