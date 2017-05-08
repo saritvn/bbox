@@ -10,7 +10,6 @@
           "email": "onclick.trungha@gmail.com"
         }
         ],
-        "type": "package",
         "package": {
             "name": "saritvn/bbox",
             "version": "dev-master",
