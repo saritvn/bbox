@@ -1,0 +1,19 @@
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "saritvn/bbox",
+            "version": "dev-master",
+            "source": {
+                "url": "git://github.com/saritvn/bbox.git",
+                "type": "git",
+                "reference": "master"
+            },
+            "autoload": {
+                "psr-0" : {
+                    "Bbox" : "src"
+                }
+            }
+        }
+    }
+],
