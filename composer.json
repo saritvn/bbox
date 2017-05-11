@@ -2,7 +2,7 @@
     "name": "saritvn/bbox",
     "description": "Upload file to BBOX with KEY",
     "license": "BSTAR",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
     {
       "name": "Trung Ha",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-0": {
-          "Bstar\\Bbox": "src/Bbox/"
+          "Bbox": "src/Bbox/"
         }
     },
     "repositories": [
