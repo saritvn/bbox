@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Bstar\\Bbbox\\": "src/Bbox/"
+            "Bstar\\Bbox\\": "src/Bbox/"
         }
     }
 }
