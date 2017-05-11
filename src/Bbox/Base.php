@@ -1,7 +1,6 @@
 <?php
 
-namespace Bstar\Bbox;
-
+namespace Bbox\Bbox
 class Base
 {
     /**
