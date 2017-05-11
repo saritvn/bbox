@@ -10,6 +10,6 @@ class Base
     protected $client_id = '';
     protected $token = '';
     public function test(){
-        
+
     }
 }
