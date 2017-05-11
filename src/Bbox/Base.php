@@ -1,6 +1,6 @@
 <?php
 
-namespace Bbox\Bbox
+namespace Bbox
 class Base
 {
     /**
